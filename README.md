@@ -1,3 +1,3 @@
 # jogo-web-speech-api
 
-<a target="_blank" href="https://jogo-web-speech-api.netlify.app/">Clique aqui para jogar</a>
+<a href="https://jogo-web-speech-api.netlify.app/" target="_blank">Clique aqui para jogar</a>
