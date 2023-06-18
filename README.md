@@ -16,6 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Jogo para adivinhar um número secreto através de comando de voz<br>
+Feito utilizando o reconhecimento de voz nativo do navegador
 
 - [Acesse o projeto finalizado, online](https://jogo-web-speech-api.netlify.app/)
 
