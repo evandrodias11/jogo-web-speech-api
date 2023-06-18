@@ -19,5 +19,3 @@ Jogo para adivinhar um número secreto através de comando de voz<br><br>
 API utilizada para o reconhecimento de voz: <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition">WebSpeech API</a><br>
 ##
 - [Acesse o projeto finalizado, online](https://jogo-web-speech-api.netlify.app/)
-
- 
